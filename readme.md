@@ -17,7 +17,7 @@ Untuk menjalankan script Python anda dapat menggunakan cara sebagai berikut:
 
 ## 1. Validasi Password
 
-Script ini dapat melakukan validasi apakah password yang diketikkan sudah sesuai kriteria, seperti:
+Script ini dapat melakukan validasi apakah password yang diketikkan sudah sesuai dengan kriteria yang telah ditentukan, seperti:
 * Harus berisi 8 karakter
 * Harus berisi minimal satu angka
 * Harus berisi minimal satu huruf besar
